@@ -1,2 +1,3 @@
-2026/04/07-20:23:32.192 2ec94 Creating DB C:\Users\Core i7-Pro\Desktop\PROYECTOS-2026\PROYECTO-SISTEMA-INVENTARIO-CON-POSTGRESQL\SISTEMA-INVENTARIO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/04/07-20:23:32.200 2ec94 Reusing MANIFEST C:\Users\Core i7-Pro\Desktop\PROYECTOS-2026\PROYECTO-SISTEMA-INVENTARIO-CON-POSTGRESQL\SISTEMA-INVENTARIO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/07-21:29:59.787 2f670 Reusing MANIFEST C:\Users\Core i7-Pro\Desktop\PROYECTOS-2026\PROYECTO-SISTEMA-INVENTARIO-CON-POSTGRESQL\SISTEMA-INVENTARIO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/07-21:29:59.789 2f670 Recovering log #3
+2026/04/07-21:29:59.790 2f670 Reusing old log C:\Users\Core i7-Pro\Desktop\PROYECTOS-2026\PROYECTO-SISTEMA-INVENTARIO-CON-POSTGRESQL\SISTEMA-INVENTARIO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
