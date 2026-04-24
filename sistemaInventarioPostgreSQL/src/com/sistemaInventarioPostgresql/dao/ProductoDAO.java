@@ -130,7 +130,7 @@ public class ProductoDAO {
 	
 	
 	//ELIMINAR
-	public Boolean eliminarProducto(String codigoProducto) {
+	public boolean eliminarProducto(String codigoProducto) {
 		
 		String sql = "DELETE FROM productos WHERE codigo_producto = ?";
 		
